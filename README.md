@@ -3,4 +3,5 @@
 
 #### Tell me
 [Telegram](https://t.me/Thary_thary)
-[E-mail](thary@tuta.io)
+[Matrix](matrix.to/#/@thary:matrix.org)
+[E-mail](mailto:thary@tuta.io)
