@@ -2,7 +2,7 @@
 ### I am Thary
 
 #### Tell me
-[Matrix](matrix.to/#/@thary:matrix.org)
+<a href="https://matrix.to/#/@thary:inex.rocks"><img src="/img/matrix_logo.png" title="My Matrix" height="50" width="50" /></a> &nbsp;
 |
 [E-mail](mailto:thary@tuta.io)
 |
